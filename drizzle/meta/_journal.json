@@ -1,0 +1,20 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1726134424594,
+      "tag": "0000_lowly_dagger",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1726145642282,
+      "tag": "0001_premium_the_fallen",
+      "breakpoints": true
+    }
+  ]
+}
